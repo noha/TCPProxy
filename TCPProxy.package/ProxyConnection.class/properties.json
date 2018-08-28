@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TCPProxy",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sourceStream",
+		"destinationStream",
+		"inProcess",
+		"outProcess",
+		"proxy"
+	],
+	"name" : "ProxyConnection",
+	"type" : "normal"
+}
