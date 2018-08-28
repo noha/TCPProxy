@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "BaselineofTCPProxy",
+	"name" : "BaselineOfTCPProxy",
 	"type" : "normal"
 }
